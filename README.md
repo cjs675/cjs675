@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Chris 
 
-<!--
-**cjs675/cjs675** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- im interested in distributed systems, fault-tolerancy and database design
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=rust,typescript,python,django,docker,postgresql&theme=light" />
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- Python,
+- Django
+- Typescript/Javascript
+- Rust
+- Docker
+- MySQL
+- PostgreSQL 
+
+
+## 🛠️ Projects
+- [My Personal Website](https://github.com/cjs675/personal-website.git)
+- [AnotherRepo](https://github.com/cjs675/AnotherRepo)
+
+
+Thanks for visiting!
+
