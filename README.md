@@ -10,12 +10,10 @@
   - program security
   
 ## Skills
-- Python,
-- Django
+- Python + Django
 - Typescript/Javascript
 - Rust
 - Docker
-- MySQL
 - PostgreSQL 
 
 
