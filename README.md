@@ -1,20 +1,15 @@
 # hello im cjs
 
-- im interested in distributed systems, fault-tolerancy and database design
 
-- goal: work as a program/security engineer in the solana ecosystem
+- goal: work on things that fully captivate me 
  
 - current interests:
-  - local fee markets 
+  - local fee markets on sol
   - consensus 
   - program security
   
 ## Skills
-- Python + Django
-- Typescript/Javascript
-- Rust
-- Docker
-- PostgreSQL 
+- rust + ts
 
 
 ##  Projects
