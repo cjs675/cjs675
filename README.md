@@ -2,19 +2,7 @@
 
 
 - goal: work on things that fully captivate me 
- 
-- current interests:
-  - local fee markets on sol
-  - consensus 
-  - program security
-  
-## Skills
-- rust + ts
 
-
-##  Projects
-- [My Personal Website](https://github.com/cjs675/personal-website.git)
-- [AnotherRepo](https://github.com/cjs675/AnotherRepo)
 
 
 Thanks for visiting!
