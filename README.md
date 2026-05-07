@@ -1,9 +1,7 @@
 # hello im cjs
 
 
-- goal: work on things that fully captivate me 
-
-
+- goal: work on large scale distributed systems and/or databases 
 
 Thanks for visiting!
 
@@ -20,11 +18,5 @@ Thanks for visiting!
   </a>
   <a href="https://www.djangoproject.com/" title="Django">
     <img src="https://skillicons.dev/icons?i=django&theme=light" height="48" />
-  </a>
-  <a href="https://www.docker.com/" title="Docker">
-    <img src="https://skillicons.dev/icons?i=docker&theme=light" height="48" />
-  </a>
-  <a href="https://www.postgresql.org/" title="PostgreSQL">
-    <img src="https://skillicons.dev/icons?i=postgresql&theme=light" height="48" />
   </a>
 </p>
