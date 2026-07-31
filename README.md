@@ -3,10 +3,10 @@
 </div>
 
 
-# hello im cjs
+# hello, im cjs
 
+I'm interested in database internals and large scale distributed systems.
 
-- goal: work on large scale distributed systems and/or databases 
 
 Thanks for visiting!
 
