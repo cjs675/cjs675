@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/cjs675/wallpapers/main/rand/w_boson_first_run.jpg" alt="w boson first run wallpaper banner" width="90%" height = 300/>
+  <img src="https://github.com/cjs675/dotfiles/blob/main/wallpapers/rand/capyDynamics.jpg" alt="aerodynamics of a capybara" width="90%" height = 300/>
 </div>
 
 
